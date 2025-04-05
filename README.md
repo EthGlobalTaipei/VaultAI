@@ -6,13 +6,13 @@ For example, you could instruct our AI agent to:
 
 Our AI agent will parse your natural language request into the corresponding DeFi strategy and actively manage and rebalance your portfolio according to the parameters you define.
 
-Roadmap (future features):
-* Support for more complex DeFi strategies
-* Instead of creating your own DeFi investment strategy (aka vault), you can co-invest alongside an existing DeFi strategy on the platform
-
 Key Components
 * Front-end: [chatDeFi.app](http://chatdefi.app) houses the chatbot interface to enter in your desired DeFi strategy in plain english.
 * Back-end: AI agent will process/interpret your strategy, manage your wallet funds, transfer your wallet funds to the approriate DeFi protocol (per your investment strategy parameters), and auto-stop if certain risk parameters are reached
+
+Future Roadmap:
+* Support for more complex DeFi strategies
+* Instead of creating your own DeFi investment strategy (aka vault), you can co-invest alongside an existing DeFi strategy on the platform
 
 ---
 
