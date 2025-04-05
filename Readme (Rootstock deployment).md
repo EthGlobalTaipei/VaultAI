@@ -14,7 +14,7 @@ Rootstock is a emerging leader in Bitcoin-based DeFi protocols and chatDeFi will
 * See https://chatDeFi.app
 
 - [x] 1) Clear short one-sentence description of your submission.
-    * The [chatDeFi.app](http://chatdefi.app) AI agent democratizes DeFi by enabling anyone to create and execute DeFi investment strategies by simply typing in their desired DeFi investment strategy into a user-friendly chatbot interface.
+    * The [chatDeFi.app](http://chatdefi.app) AI agent democratizes DeFi by enabling anyone to create, execute, manage DeFi investment strategies by simply typing in their desired DeFi investment strategy into a user-friendly chatbot interface.
 
 - [ ] 2) Short description of what you integrated Rootstock with and how.
     * 
