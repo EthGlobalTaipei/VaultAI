@@ -29,3 +29,5 @@ Future Roadmap
 * Support additional DeFi protocols (DEX trading, perpetual trading, yield optimizers) 
 * "Invest" feature - co-invest alongside an existing DeFi strategy (aka vault) on the platform (instead of creating your own DeFi investment)
 
+Architecture
+![alt text](image-1.png)
