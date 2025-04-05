@@ -11,10 +11,10 @@ See [README - Overview.md](./README%20-%20Overview.md)
 ### Polygon Resources Used
 * GOAT SDK (by Crossmint) features used:
     * [Agent Wallets](https://docs.crossmint.com/wallets/quickstarts/agent-wallets) - creates AI agent to control wallets that will execute user's desired DeFi investment strategy
-    * ???Server Wallets???
+    * Server Wallets
 
 * Crossmint SDK
     * Our DeFi chatbot used these Crossmint features:
-      * Wallet Creations???
-      * Delegated Signers?????
+      * Wallet Creations
+      * Delegatation
       * Sending Transactions
