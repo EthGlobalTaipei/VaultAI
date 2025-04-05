@@ -1,5 +1,5 @@
 # Project Overview
-See [README - Overview.md](./README%20-%20Overview.md)
+See [README.md](./README.md)
 
 ---
 
