@@ -1,5 +1,20 @@
 # Project Overview
-* The [chatDeFi.app](http://chatDeFi.app) AI agent democratizes DeFi by enabling _*anyone*_ to create and execute DeFi investment strategies by simply typing in their desired DeFi investment strategy using plain English into a simple chatbot interface. Our AI agent will then execute the user's desired DeFi strategy automatically.
+The [chatDeFi.app](http://chatdefi.app) AI agent democratizes DeFi by enabling anyone to create and execute DeFi investment strategies by simply typing in their desired DeFi investment strategy into a user-friendly chatbot interface. Our AI agent then executes these strategies automatically.
+
+For example, you could instruct our AI agent to:
+“Allocate my wallet funds to the highest yielding DeFi lending protocols with lending pools that earn at least 5% APY. To manage my risk, split my wallet funds across 2 lending pools with 70% in one pool and 30% in another. Also, if my portfolio loses 10% of its funds, then stop managing my portfolio.”
+
+Our AI agent will parse your natural language request into the corresponding DeFi strategy and actively manage and rebalance your portfolio according to the parameters you define.
+
+Roadmap (future features):
+* Support for more complex DeFi strategies
+* Instead of creating your own DeFi investment strategy (aka vault), you can co-invest alongside an existing DeFi strategy on the platform
+
+Key Components
+* Front-end: [chatDeFi.app](http://chatdefi.app) houses the chatbot interface to enter in your desired DeFi strategy in plain english.
+* Back-end: AI agent will process/interpret your strategy, manage your wallet funds, transfer your wallet funds to the approriate DeFi protocol (per your investment strategy parameters), and auto-stop if certain risk parameters are reached
+
+---
 
 # Polygon Deployment
 
@@ -17,3 +32,16 @@
       * Delegated Signers?????
       * Sending Transactions
 
+---
+# Saga Chainlet Deployment
+
+### Polygon Prize Requirements Met:
+* Smart contract deployed to Saga Chainlet at address below:
+  * `[Varad to enter in address]`
+  * UI/Frontend exists (see http://chatdefi.app)
+
+### Overview
+[See Overview section at the top]
+
+### Why Saga?
+Successfully projects will be quickly constrained by scalability issues. Launching our project on Saga will guarantee chatDeFi easy horizontal scaling via its Chainlet architecture (i.e. each chatDeFi vault strategy can exist on its own chainlet). Also, fees are much more predictable since the Saga chainlet’s blockspace is not shared with other projects (whose sudden spike in popularity/usage often causes transaction fees to rise significantly).
