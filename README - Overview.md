@@ -30,7 +30,7 @@ Future Roadmap
 * "Invest" feature - co-invest alongside an existing DeFi strategy (aka vault) on the platform (instead of creating your own DeFi investment)
 
 Architecture
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 # Celo Prize Requirement Details
 See [Readme (Celo deployment).md](./Readme%20(Celo%20deployment).md)
