@@ -1,10 +1,10 @@
 # Project Overview
 * The [chatDeFi.app](http://chatDeFi.app) AI agent democratizes DeFi by enabling _*anyone*_ to create and execute DeFi investment strategies by simply typing in their desired strategy into our chatbot interface. Our AI agent will then execute the user's desired DeFi strategy automatically.
 
-# Polygon Deployment Readme
+# Polygon Deployment
 
 ### Polygon Prize Requirements Met:
-  * Deployed our [chatDeFi.app](http://chatDeFi.app) AI agent to control Polygon smart contracts that help user's execute a DeFi investment strategy they created by a chatBot interface. The chatDeFi.app web app has Polygon smart contracts deployed to this address: `[Varad to enter in smart contract address]`
+  * Our [chatDeFi.app](http://chatDeFi.app) AI agent controls smart contract that create "vaults" (aka DeFi investment strategies) that users create via our chatBot interface. These smart contract can be found here: `[Varad to enter in smart contract address]`
     
 ### Polygon Resources Used
 * GOAT SDK (by Crossmint) features used:
