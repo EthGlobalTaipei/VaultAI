@@ -20,7 +20,7 @@ Rootstock is a emerging leader in Bitcoin-based DeFi protocols and chatDeFi will
     * 
 
 - [x] 3) Short description of the team and their backgrounds.
-    * Mike L. - PM, ex-front-end eng., CS/MBA degree. MIT graduate.
+    * Mike L. - PM, ex-front-end eng., CS/MBA degree. MIT grad.
     * Reza S. - full-stack web3 engineer 
     * Varad B. - full-stack engineer
     * Vasu G. - full-stack engineer
