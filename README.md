@@ -1,5 +1,6 @@
 # Project Overview
 ![alt text](image.png)
+
 The [chatDeFi.app](http://chatdefi.app) AI agent democratizes DeFi by enabling anyone to create and execute DeFi investment strategies by simply typing in their desired DeFi investment strategy into a user-friendly chatbot interface. Our AI agent then executes these strategies automatically.
 
 For example, you could instruct our AI agent to:
