@@ -16,9 +16,11 @@ Key Components
   * Our AI agent will process/interpret your strategy, manage your wallet funds by depositing/withdrawing your wallet funds to/from the approriate DeFi protocol according to your investment strategy parameters, and auto-stop if certain risk parameters are reached.
 
 Key Features
-* Blockchains supported: Celo, Polygon, Saga
-* DeFi protocols supported: DeFi lending (i.e. Aave, compound, etc.; varies by blockchain)
-* DeFi strategies supported: 
+* Blockchains supported: 
+  * Celo, Polygon, Saga
+* DeFi protocols supported: 
+  * DeFi lending (i.e. Aave, Compound, etc. (varies by blockchain))
+* Strategies supported: 
   * i) Portfolio allocation strategy (i.e. 80%/20% or 70/30% splits across x number of DeFi lending pools), 
   * ii) Risk management strategy (i.e. auto-stop AI agent if portfolio value falls 10%) 
   * iii) Min. Return requirements (i.e. only invest in pools with min. return of x%)
