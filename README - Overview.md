@@ -39,7 +39,7 @@ See [Readme (Celo deployment).md](./Readme%20(Celo%20deployment).md)
 See [Readme (Polygon deployment).md](Readme%20(Polygon%20deployment).md)
 
 # Rootstock Prize Requirement Details
-See [Readme (Rootstock deployment).md](./Readme%20(Rootstock%20deployment).md
+See [Readme (Rootstock deployment).md](./Readme%20(Rootstock%20deployment).md)
 
 # Saga Prize Requirement Details
 See [Readme (Saga deployment).md](./Readme%20(Saga%20deployment).md)
