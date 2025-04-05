@@ -13,7 +13,7 @@ Key Components
 * Front-end:
   * [chatDeFi.app](http://chatdefi.app) houses the chatbot interface to enter in your desired DeFi strategy in plain english.
 * Back-end: 
-  * Our AI agent will process/interpret your strategy, manage your wallet funds by depositing/withdrawing your wallet funds to/from the approriate DeFi protocol according to your investment strategy parameters, and auto-stop if certain risk parameters are reached.
+  * Our AI agent will process/interpret your strategy, manage your strategy vault  by depositing/withdrawing your vault funds to/from the approriate DeFi protocol according to your investment strategy parameters, and auto-stop if certain risk parameters are reached.
 
 Key Features
 * Blockchains supported: 
