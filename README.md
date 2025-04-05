@@ -17,7 +17,7 @@ Key Components
 
 Key Features
 * Blockchains supported: 
-  * Celo, Polygon, Saga
+  * Celo, Polygon, Rootstock, Saga
 * DeFi protocols supported: 
   * DeFi lending (i.e. Aave, Compound, etc. (varies by blockchain))
 * Strategies supported: 
