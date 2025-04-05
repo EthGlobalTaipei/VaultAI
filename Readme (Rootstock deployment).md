@@ -18,12 +18,9 @@ Rootstock is a emerging leader in Bitcoin-based DeFi protocols and chatDeFi will
 
 - [x] 2) Short description of what you integrated Rootstock with and how.
     * We wanted to interact with some of the lending protocols on RootStock but we couldn't find the pool contracts on the testnet so we deployed our own mock lending pool contracts and saw if our agent works fine with the mock lending pools and does all the required steps before smart contract execution
-    - Demo Pool Address :
-        * https://explorer.testnet.rootstock.io/address/0x814b2fa4018cd54b1bbd8662a8b53feb4ed24d7d
-    - Demo Token used as pool asset:
-        * https://explorer.testnet.rootstock.io/address/0xde1f15231e9bffcf6fcc9593bba852b0489b439c?__tab=transactions
-    - Vault Contract :
-        * https://explorer.testnet.rootstock.io/address/0x2e30a7809aca616751f00ff46a0b4e9761ab71e2
+        - Demo Pool Address: https://explorer.testnet.rootstock.io/address/0x814b2fa4018cd54b1bbd8662a8b53feb4ed24d7d
+        - Demo Token used as pool asset: https://explorer.testnet.rootstock.io/address/0xde1f15231e9bffcf6fcc9593bba852b0489b439c?__tab=transactions
+        - Vault Contract: https://explorer.testnet.rootstock.io/address/0x2e30a7809aca616751f00ff46a0b4e9761ab71e2
 
 - [x] 3) Short description of the team and their backgrounds.
     * Mike L. - PM, ex-front-end eng., CS/MBA degree. MIT grad.
