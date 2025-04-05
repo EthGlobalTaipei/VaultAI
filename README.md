@@ -10,9 +10,17 @@ Key Components
 * Front-end: [chatDeFi.app](http://chatdefi.app) houses the chatbot interface to enter in your desired DeFi strategy in plain english.
 * Back-end: AI agent will process/interpret your strategy, manage your wallet funds, transfer your wallet funds to the approriate DeFi protocol (per your investment strategy parameters), and auto-stop if certain risk parameters are reached
 
+Key Features
+* Blockchains supported: Celo, Polygon, Saga
+* DeFi protocols supported: DeFi lending (i.e. Aave, compound, etc.; varies by blockchain)
+* DeFi strategies supported: 
+  * i) Portfolio allocation strategy (i.e. 80%/20% or 70/30% splits across x number of DeFi lending pools), 
+  * ii) Risk management strategy (i.e. auto-stop AI agent if portfolio value falls 10%) 
+  * iii) Min. Return requirements (i.e. only invest in pools with min. return of x%)
+
 Future Roadmap:
-* Support for more complex DeFi strategies
-* Instead of creating your own DeFi investment strategy (aka vault), you can co-invest alongside an existing DeFi strategy on the platform
+* Support additional DeFi protocols (DEX trading, perpetual trading, yield optimizers) 
+* "Invest" feature - co-invest alongside an existing DeFi strategy (aka vault) on the platform (instead of creating your own DeFi investment)
 
 ---
 
