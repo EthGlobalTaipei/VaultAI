@@ -31,3 +31,10 @@ Future Roadmap
 
 Architecture
 ![alt text](image-1.png)
+
+
+# Polygon Deployment Details
+See [Readme (Polygon deployment).md](Readme%20(Polygon%20deployment).md)
+
+# Saga Deployment Details
+See [Readme (Saga deployment).md](./Readme%20(Saga%20deployment).md)
