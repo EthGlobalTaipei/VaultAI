@@ -8,9 +8,9 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 contract DeployStrategyVault is Script {
     function run() external returns (StrategyVault) {
         uint256 deployerPrivateKey = vm.envUint("PRIVATE_KEY");
-        address assetToken = vm.envAddress("ASSET_TOKEN");
-        string memory name = vm.envString("VAULT_NAME");
-        string memory symbol = vm.envString("VAULT_SYMBOL");
+        address assetToken =0xdE1f15231e9BFfcF6fcC9593BbA852B0489B439C;
+        string memory name = "Vault Token";
+        string memory symbol = "vTKN";
 
         vm.startBroadcast(deployerPrivateKey);
 
