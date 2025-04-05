@@ -18,7 +18,7 @@ Key Features
   * ii) Risk management strategy (i.e. auto-stop AI agent if portfolio value falls 10%) 
   * iii) Min. Return requirements (i.e. only invest in pools with min. return of x%)
 
-Future Roadmap:
+Future Roadmap
 * Support additional DeFi protocols (DEX trading, perpetual trading, yield optimizers) 
 * "Invest" feature - co-invest alongside an existing DeFi strategy (aka vault) on the platform (instead of creating your own DeFi investment)
 
