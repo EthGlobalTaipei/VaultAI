@@ -4,7 +4,8 @@
 The [chatDeFi.app](http://chatdefi.app) AI agent democratizes DeFi by enabling anyone to create and execute DeFi investment strategies by simply typing in their desired DeFi investment strategy into a user-friendly chatbot interface. Our AI agent then executes these strategies automatically.
 
 For example, you could instruct our AI agent to:
-“Allocate my wallet funds to the highest yielding DeFi lending protocols with lending pools that earn at least 5% APY. To manage my risk, split my wallet funds across 2 lending pools with 70% in one pool and 30% in another. Also, if my portfolio loses 10% of its funds, then stop managing my portfolio.”
+
+“Please allocate my wallet funds to the highest yielding DeFi lending protocols with lending pools that earn at least 5% APY. To manage my risk, split my wallet funds across 2 lending pools with 70% in one pool and 30% in another. Also, if my portfolio loses 10% of its funds, then stop managing my portfolio.”
 
 Our AI agent will parse your natural language request into the corresponding DeFi strategy and actively manage and rebalance your portfolio according to the parameters you define.
 
